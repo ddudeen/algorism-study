@@ -78,4 +78,8 @@
 -   전준욱   
     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)   
     [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+    
+-   김수진
+    [유기농 배추](https://www.acmicpc.net/problem/1012)
+    [2048 (Easy)](https://www.acmicpc.net/problem/12100)
 
